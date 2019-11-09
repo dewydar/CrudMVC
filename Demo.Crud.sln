@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Crud CodeFirst", "Demo.Crud CodeFirst\Demo.Crud CodeFirst.csproj", "{ABCDBDB8-7AB6-4792-B70F-033DDAAABC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCDBDB8-7AB6-4792-B70F-033DDAAABC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCDBDB8-7AB6-4792-B70F-033DDAAABC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCDBDB8-7AB6-4792-B70F-033DDAAABC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCDBDB8-7AB6-4792-B70F-033DDAAABC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB1C5BD-AA13-4926-9158-DDBFA2480C04}
+	EndGlobalSection
+EndGlobal

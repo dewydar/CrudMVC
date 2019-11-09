@@ -1,0 +1,55 @@
+﻿@model List<PersonalDetails>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>personalInfo</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Operation</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>
+                        @Ajax.ActionLink("Details", "Details", "Personal", new { id = item.Id },
+                                       new AjaxOptions() {
+                                           UpdateTargetId="div1",
+                                           InsertionMode=InsertionMode.Replace
+                                       }, new { @class="btn btn-warning"})||
+                        @Ajax.ActionLink("Update", "Update", "Personal", new { id = item.Id },
+                           new AjaxOptions() {
+                               UpdateTargetId="div1",
+                               InsertionMode=InsertionMode.Replace
+                           }, new { @class = "btn btn-success" } )||
+                        @Html.ActionLink("Delete", "Delete", "Personal", new { id = item.Id }, new { @class = "btn btn-danger", onclick = "return confirm('are you sure ? ')" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @Ajax.ActionLink("Create New Personal Details", "Create", "Personal", null,
+                           new AjaxOptions() {
+                               UpdateTargetId="div1",
+                               InsertionMode=InsertionMode.Replace
+                           }, new { @class = "btn btn-success" } )
+    <div id="div1"></div>
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+</body>
+</html>

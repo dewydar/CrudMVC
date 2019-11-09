@@ -1,0 +1,44 @@
+﻿@model PersonalDetails
+@using (Html.BeginForm())
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>@Html.LabelFor(a=>a.Id)</td>
+                <td>
+                    @Html.LabelFor(a => a.Name)
+                </td>
+                <td>
+                    @Html.LabelFor(a => a.Mail)
+                </td>
+                <td>
+                    @Html.LabelFor(a => a.Age)
+                </td>
+                <td>
+                    @Html.LabelFor(a => a.Address)
+                </td>
+                <td>Operation</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Html.TextBoxFor(a => a.Id)</td>
+
+                <td>@Html.TextBoxFor(a => a.Name)</td>
+                <td>
+                    @Html.TextBoxFor(a => a.Mail)
+                </td>
+                <td>
+                    @Html.TextBoxFor(a => a.Age)
+                </td>
+                <td>
+                    @Html.TextBoxFor(a => a.Address)
+                </td>
+                <td>
+                    <input type="submit" value="Created" class="btn btn-primary" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+}
+

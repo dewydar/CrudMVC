@@ -1,0 +1,74 @@
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Demo.Crud CodeFirst.dll.config
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Demo.Crud CodeFirst.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Demo.Crud CodeFirst.pdb
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csc.exe
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csc.exe.config
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csc.rsp
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csi.exe
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csi.exe.config
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\csi.rsp
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.Managed.Core.targets
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.AppContext.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Collections.Immutable.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Console.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.IO.Compression.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.IO.FileSystem.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.IO.Pipes.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Reflection.Metadata.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.AccessControl.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Claims.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Security.Principal.Windows.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.ValueTuple.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Xml.XmlDocument.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Xml.XPath.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\vbc.exe
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\vbc.exe.config
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\vbc.rsp
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\VBCSCompiler.exe
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\roslyn\VBCSCompiler.exe.config
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\EntityFramework.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\EntityFramework.SqlServer.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Microsoft.Web.Infrastructure.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Helpers.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Mvc.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Razor.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.Deployment.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.Razor.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\EntityFramework.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\EntityFramework.SqlServer.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Razor.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.Deployment.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Webpages.Razor.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Helpers.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\System.Web.Mvc.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud CodeFirst.csproj.CoreCompileInputs.cache
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud CodeFirst.csproj.CopyComplete
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud CodeFirst.dll
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud CodeFirst.pdb
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud_CodeFirst.Migrations.AddTableWithCodeFirst.resources
+F:\iti\MVC\Demo.Crud\Demo.Crud CodeFirst\obj\Debug\Demo.Crud CodeFirst.csproj.GenerateResource.cache
